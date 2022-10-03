@@ -5,3 +5,4 @@ to improve open source contribution
 # thirdly, an update from the college nati
 ## wifey edit
 yo
+#information for hacktoberfest
